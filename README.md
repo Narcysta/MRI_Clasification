@@ -1,3 +1,4 @@
+Dataset do pobrania pod linkiem: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset (Pamiętaj, żeby zmienić ścieżkę do folderu treningowego i testowego na swoją)
 Opis problemu
 Celem projektu jest opracowanie jak najdokładniejszego modelu klasyfikującego obrazy rezonansu magnetycznego (MRI) mózgu w celu automatycznego rozróżniania między różnymi typami nowotworów mózgu oraz przypadkiem zdrowym. 
 W projekcie rozróżniamy cztery klasy obrazów MRI:
